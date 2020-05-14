@@ -8,12 +8,13 @@
 - 카카오QR 코드를 직접 입력시 번호 없이 바로 송금링크 접근가능. -> 추후 업데이트예정.
 
 ## Concept
-![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/1.png?raw=true)
-![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/2.png?raw=true)
-![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/3.png?raw=true)
-![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/4.png?raw=true)
-![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/5.png?raw=true)
-![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/6.png?raw=true)
+![ex_screenshot]()
+![ex_screenshot]()
+![ex_screenshot]()
+![ex_screenshot]()
+![ex_screenshot]()
+![ex_screenshot]()
+
 
 - 지금줄게은 Swift를 사용하여 제작한 첫번째 팀프로젝트 Application 입니다.
 - 지금줄게를 통해 다음과 같은 내용을 스터디할 수 있었습니다.
