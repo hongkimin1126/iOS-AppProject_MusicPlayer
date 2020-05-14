@@ -8,8 +8,8 @@
 - 재생한곡은 나의 플레이리스트로 만들어 보관.
 
 ## Concept
-![ex_screenshot]()
-![ex_screenshot]()
+![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/1.png?raw=true)
+![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/2.png?raw=true)
 ![ex_screenshot]()
 ![ex_screenshot]()
 ![ex_screenshot]()
