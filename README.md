@@ -10,13 +10,11 @@
 ## Concept
 <img src="https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/1.png?raw=true" width="320" height="568">
 <img src="https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/2.png?raw=true" width="320" height="568">
+<img src="https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/3.png?raw=true" width="320" height="568">
+<img src="https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/4.png?raw=true" width="320" height="568">
+<img src="https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/6.png?raw=true" width="320" height="568">
+<img src="https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/5.png?raw=true" width="320" height="568">
 
-<img src="https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/1.png?raw=true" width="375" height="812">
-<img src="https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/2.png?raw=true" width="375" height="812">
-<img src="https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/3.png?raw=true" width="375" height="812">
-<img src="https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/4.png?raw=true" width="375" height="812">
-<img src="https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/6.png?raw=true" width="375" height="812">
-<img src="https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/5.png?raw=true" width="375" height="812">
 - MusicPlayer는 Swift를 사용하여 제작한 두 번째 팀프로젝트 Application 입니다.
 - MusicPlayer를 통해 다음과 같은 내용을 스터디할 수 있었습니다.
   1. Codable ,JSNON
