@@ -7,6 +7,11 @@
 - 서버와 통신을 통하여 음원을 가져와 스트링밍 재생.
 - 재생한곡은 나의 플레이리스트로 만들어 보관.
 
+##Role
+- URLQueryItem을 사용하여 AppleMusic 곡검색.
+- Codable로 서버에서 가져온 data중 원하는 것만 추출.
+- AVPlayer를 사용하여 음원재생.
+
 ## Concept
 ![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/1.png?raw=true)
 ![ex_screenshot](https://github.com/hongkimin1126/ImageUpload/blob/master/뮤직앱사진/2.png?raw=true)
